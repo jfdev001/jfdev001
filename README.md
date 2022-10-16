@@ -7,6 +7,11 @@ Interests:
 * Automating Computer-aided Diagnosis Using Deep Learning
 * Numerical Modeling and Simulation
 
+Best Languages:
+* Python
+* C
+* Mathematica
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
