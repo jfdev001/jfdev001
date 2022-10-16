@@ -1,6 +1,6 @@
 # Jared Frazier
 
-Currently enrolled in the [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) at the University of Amsterdam.
+Currently enrolled in the [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) program at the University of Amsterdam.
 
 Interests:
 * High Performance Computing with C and MPI 
