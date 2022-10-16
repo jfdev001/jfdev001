@@ -1,4 +1,11 @@
-### Hi there 👋
+# Jared Frazier: Pursuing MSc. in Computational Science
+
+Interests:
+* High Performance Computing with C and MPI 
+* Automating Computer-aided Diagnosis Using Deep Learning
+* Numerical Modeling and Simulation
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jfdev001/jfdev001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
