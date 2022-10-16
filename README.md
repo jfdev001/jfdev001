@@ -7,7 +7,7 @@ Interests:
 * Automating Computer-aided Diagnosis Using Deep Learning
 * Numerical Modeling and Simulation
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **jfdev001/jfdev001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
