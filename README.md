@@ -2,9 +2,13 @@
 
 Currently enrolled in the [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) program at the University of Amsterdam.
 
-Interests:
-* High Performance Computing with C and MPI 
+Experience:
 * Automating Computer-aided Diagnosis Using Deep Learning
+* Time-series Forecasting with Machine Learning
+* Automatic Drug Design with Deep Learning
+
+Learning:
+* High Performance Computing with C and MPI 
 * Numerical Modeling and Simulation
 
 Best Languages:
