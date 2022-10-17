@@ -11,7 +11,7 @@ Learning:
 * High Performance Computing with C and MPI 
 * Numerical Modeling and Simulation
 
-Best Languages:
+Primary Languages:
 * Python
 * C
 * Mathematica
