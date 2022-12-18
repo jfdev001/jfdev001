@@ -8,13 +8,12 @@ Experience (Data Analysis and Research):
 * Automatic Drug Design with Deep Learning
 
 Learning:
-* High Performance Computing with C and MPI 
+* High Performance Computing and Graph Processing 
 * Numerical Modeling and Simulation
 
 Primary Languages:
 * Python
 * C
-* Mathematica
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
 
