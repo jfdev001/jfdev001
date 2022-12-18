@@ -10,6 +10,7 @@ Experience (Data Analysis and Research):
 Learning:
 * High Performance Computing and Graph Processing 
 * Numerical Modeling and Simulation
+* Julia
 
 Primary Languages:
 * Python
