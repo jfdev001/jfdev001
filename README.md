@@ -12,10 +12,11 @@ Learning:
 * Numerical Modeling and Simulation
 * Julia
 
-Primary Languages:
-* Python
-* C (MPI)
-* Mathematica 
+Languages :
+* Python      (Very Familiar)
+* C           (Familiar)
+* C++         (Somewhat Familiar)
+* Mathematica (Somewhat Familiar)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
 
