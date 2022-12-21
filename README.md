@@ -14,7 +14,8 @@ Learning:
 
 Primary Languages:
 * Python
-* C
+* C (MPI)
+* Mathematica 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
 
