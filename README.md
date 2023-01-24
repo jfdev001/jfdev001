@@ -15,6 +15,7 @@ Learning:
 Languages :
 * Python      (Very Familiar)
 * C           (Familiar)
+* Julia       (Somewhat Familiar)
 * C++         (Somewhat Familiar)
 * Mathematica (Somewhat Familiar)
 
