@@ -8,9 +8,8 @@ Experience (Data Analysis and Research):
 * Automatic Drug Design with Deep Learning
 
 Learning:
-* High Performance Computing and Graph Processing 
-* Numerical Modeling and Simulation
-* Julia
+* High Performance Computing
+* Modeling and Simulation
 
 Languages :
 
@@ -18,7 +17,7 @@ Languages :
 | ----------- | ----------- |
 | Python      | Very Procient       |
 | C           | Proficient        |
-| Julia       | Somewhat Proficient|
+| Julia       | Proficient|
 | R           | Somewhat Proficient |
 | C++         | Somewhat Proficient |
 | Mathematica | Somewhat Proficient |
