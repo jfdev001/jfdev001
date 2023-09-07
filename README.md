@@ -15,12 +15,12 @@ Languages :
 
 | Language    | Proficiency |
 | ----------- | ----------- |
-| Python      | Very Procient       |
+| Python      | Proficient       |
 | C           | Proficient        |
 | Julia       | Proficient|
 | R           | Somewhat Proficient |
-| C++         | Somewhat Proficient |
-| Mathematica | Somewhat Proficient |
+| C++         | Limited Proficiency |
+| Mathematica | Limited Proficiency |
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
