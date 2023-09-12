@@ -11,7 +11,7 @@ Learning:
 * High Performance Computing
 * Modeling and Simulation
 
-Languages :
+Languages:
 
 | Language    | Proficiency |
 | ----------- | ----------- |
