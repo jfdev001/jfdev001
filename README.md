@@ -2,14 +2,15 @@
 
 Currently enrolled in the [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) program at the University of Amsterdam.
 
+Learning:
+* Distributed Computing (e.g., using MPI)
+* Mathematical Modelling (ODE/PDE Systems)
+* Finite Element Methods
+
 Experience (Data Analysis and Research):
 * Automating Computer-aided Diagnosis Using Deep Learning
 * Time-series Forecasting with Machine Learning
 * Automatic Drug Design with Deep Learning
-
-Learning:
-* High Performance Computing
-* Modeling and Simulation
 
 Languages:
 
