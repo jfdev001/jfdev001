@@ -5,7 +5,8 @@ Currently enrolled in the [MSc. of Computational Science](https://www.uva.nl/en/
 Learning:
 * Distributed Computing (e.g., using MPI)
 * Mathematical Modelling (ODE/PDE Systems)
-* Finite Element Methods
+* Finite Difference/Element Methods
+* Computational Mechanics of Metamaterials
 
 Experience (Data Analysis and Research):
 * Automating Computer-aided Diagnosis Using Deep Learning
