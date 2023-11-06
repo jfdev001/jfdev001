@@ -18,8 +18,8 @@ Languages:
 | Language    | Proficiency |
 | ----------- | ----------- |
 | Python      | Proficient       |
-| C           | Proficient        |
-| Julia       | Proficient|
+| Julia           | Proficient        |
+| C       | Proficient|
 | Mathematica | Somewhat Proficient |
 | R           | Somewhat Proficient |
 | C++         | Limited Proficiency |
