@@ -2,7 +2,7 @@
 
 Currently in [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) program at the University of Amsterdam.
 
-Learning as Part of MSc. Thesis:
+Learning as Part of MSc. Thesis (November 2023 - June 2024):
 * Distributed Computing (e.g., using MPI)
 * Mathematical Modelling (ODE/PDE Systems)
 * Finite Element Methods
