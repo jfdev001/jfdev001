@@ -7,6 +7,7 @@ Learning:
 * Mathematical Modelling (ODE/PDE Systems)
 * Finite Element Methods
 * Computational Mechanics of Metamaterials
+* Domain Decomposition Methods (e.g., BDDC) for Numerical Solution of PDEs
 
 Experience (Data Analysis and Research):
 * Automating Computer-aided Diagnosis Using Deep Learning
