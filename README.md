@@ -2,11 +2,10 @@
 
 Currently in [MSc. of Computational Science](https://www.uva.nl/en/programmes/masters/computational-science/computational-science.html) program at the University of Amsterdam.
 
-Learning:
+Learning as Part of MSc. Thesis:
 * Distributed Computing (e.g., using MPI)
 * Mathematical Modelling (ODE/PDE Systems)
 * Finite Element Methods
-* Computational Mechanics of Metamaterials
 * Domain Decomposition Methods (e.g., BDDC) for Numerical Solution of PDEs
 
 Experience (Data Analysis and Research):
