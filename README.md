@@ -22,7 +22,7 @@ Languages:
 | C       | Proficient|
 | Mathematica | Somewhat Proficient |
 | R           | Somewhat Proficient |
-| C++         | Limited Proficiency |
+| C++         | Somewhat Proficient |
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
