@@ -2,17 +2,13 @@
 
 Scientific Programmer at the Leibniz Institute for Atmospheric Physics. 
 
-Skills as Part of MSc. Thesis (November 2023 - August 2024):
-* Distributed Computing (e.g., using MPI)
-* Mathematical Modelling (ODE/PDE Systems)
-* Finite Element Methods
-* Domain Decomposition Methods (e.g., BDDC) for Numerical Solution of PDEs
+Current interests:
 
-Prior Work Experience (Data Analysis and Research):
-* Automating Computer-aided Diagnosis Using Deep Learning
-* Time-series Forecasting with Machine Learning
-* Automatic Drug Design with Deep Learning
-
+* Finite Volume Methods
+* Computational Fluid Dynamics
+* Numerical Weather Prediction
+* High Performance Computing
+  
 Languages:
 
 | Language    | Proficiency |
