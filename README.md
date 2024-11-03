@@ -4,11 +4,11 @@ Scientific Programmer at the Leibniz Institute for Atmospheric Physics.
 
 Current interests:
 
-* Finite Volume Methods
 * Computational Fluid Dynamics
 * Numerical Weather Prediction
 * High Performance Computing
-  
+
+<!--
 Languages:
 
 | Language    | Proficiency |
@@ -20,6 +20,7 @@ Languages:
 | Mathematica | Somewhat Proficient |
 | R           | Somewhat Proficient |
 | MATLAB | Limited Proficiency |
+-->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001)](https://github.com/anuraghazra/github-readme-stats) -->
