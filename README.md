@@ -7,6 +7,8 @@ Current interests:
 * Computational Fluid Dynamics
 * Numerical Weather Prediction
 * High Performance Computing
+* Finite Element Methods
+* Domain Decomposition
 
 <!--
 Languages:
