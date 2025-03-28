@@ -5,6 +5,7 @@ Scientific Programmer at the Leibniz Institute for Atmospheric Physics.
 Current interests:
 * High Performance Computing
 * Finite Element Methods
+* Finite Volume Methods
 * Domain Decomposition
 * Computational Fluid Dynamics
 
