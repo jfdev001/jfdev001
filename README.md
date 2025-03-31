@@ -1,7 +1,5 @@
 # Jared Frazier
 
-Scientific Programmer at the Leibniz Institute for Atmospheric Physics. 
-
 Current interests:
 * High Performance Computing
 * Finite Element Methods
