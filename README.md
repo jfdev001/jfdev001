@@ -6,6 +6,7 @@ Current interests:
 * Finite Volume Methods
 * Domain Decomposition
 * Computational Fluid Dynamics
+* Atmospheric Modelling
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001&show_icons=true&theme=dark&hide_title=true&rank_icon=github)
 
