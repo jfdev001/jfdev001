@@ -2,9 +2,7 @@
 
 Current interests:
 * High Performance Computing
-* Finite Element Methods
-* Finite Volume Methods
-* Domain Decomposition
+* Finite Element/Volume Methods
 * Computational Fluid Dynamics
 * Atmospheric Modelling
 
