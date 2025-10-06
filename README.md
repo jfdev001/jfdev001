@@ -1,10 +1,10 @@
 # Jared Frazier
 
 Current interests:
-* High Performance Computing
-* Finite Element/Volume Methods
-* Computational Fluid Dynamics
-* Machine Learning + Climate Modelling
+* High performance computing and DevOps in these environments
+* Machine learning + climate modelling
+* Finite element/volume methods
+* Computational fluid dynamics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001&show_icons=true&theme=dark&hide_title=true&rank_icon=github)
 
