@@ -1,7 +1,7 @@
 # Jared Frazier
 
 Current interests:
-* High performance computing and DevOps in these environments
+* High performance computing + DevOps in these environments
 * Machine learning + climate modelling
 * Finite element/volume methods
 * Computational fluid dynamics
