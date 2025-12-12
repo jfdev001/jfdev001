@@ -5,8 +5,9 @@ Current interests:
 * Machine learning + climate modelling
 * Finite element/volume methods
 * Computational fluid dynamics
+* Compiler development
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001&show_icons=true&theme=dark&hide_title=true&rank_icon=github)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001&show_icons=true&theme=dark&hide_title=true&rank_icon=github) -->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdev001&layout=compact&theme=dark&hide=cmake)
 
