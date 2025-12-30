@@ -7,7 +7,7 @@ Current interests:
 * Computational fluid dynamics
 * Compiler development
 
-<img src="https://github-readme-stats.vercel.app/api?username=jfdev001&theme=gruvbox&rank_icon=percentile&disable_animations=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jfdev001&theme=gruvbox&rank_icon=percentile&disable_animations=true" /> -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfdev001&show_icons=true&theme=dark&hide_title=true&rank_icon=github) -->
 
