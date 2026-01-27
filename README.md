@@ -1,5 +1,7 @@
 # Jared Frazier
 
+I am an early career specialist in HPC with performance optimization, automation, and DevOps competencies honed during my time as a Scientific Programmer at the Leibniz Institute of Atmospheric Physics. I am eager to contribute these plus diverse skills in scientific modelling and simulation to a software engineering role.
+
 ## Current interests
 * High performance computing + DevOps in these environments
 * Machine learning + climate modelling
