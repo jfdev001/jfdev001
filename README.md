@@ -1,8 +1,5 @@
 # Jared Frazier
 
-Software engineer with 2 years of experience in high performance computing (HPC) environments, working on large-scale simulation software such as
-the ICON climate/weather model. Experienced in performance optimization, automation, and DevOps.
-
 ## Free and Open-Source Software (FOSS) Contributions
 
 ### FTorch | 10+ merged pull-requests to one of the most popular production-grade Fortran/PyTorch interoperability libraries 
