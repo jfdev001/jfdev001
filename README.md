@@ -1,6 +1,6 @@
 # Jared Frazier
 
-Lover of open-source software.
+🪿
 
 ## Free and Open-Source Software (FOSS) Contributions
 
