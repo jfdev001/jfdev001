@@ -1,6 +1,6 @@
 # Jared Frazier
 
-🪿
+🪿❤️🚀&💻
 
 ## Free and Open-Source Software (FOSS) Contributions
 
